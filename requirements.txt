@@ -1,0 +1,8 @@
+# requirements.txt
+# Daftar paket yang diperlukan untuk praktikum
+# Framework web (sudah termasuk dalam banyak instalasi Python)
+flask>=3.0.0
+# Alat SAST (Static Application Security Testing)
+bandit>=1.7.0
+# Opsional: alat audit dependensi
+pip-audit>=2.6.0
